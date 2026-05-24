@@ -1,4 +1,4 @@
-# classic_models_analysis
+# Sales Performance Analysis
 
 This project presents an interactive Power BI Sales Dashboard developed to analyze sales performance, profitability, customer trends, and product insights across different years and product categories.
 
